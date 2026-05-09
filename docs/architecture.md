@@ -1,0 +1,24 @@
+# Architecture | 架构
+
+## System Overview
+```
+┌─────────────────┐     ┌──────────────────┐     ┌──────────────┐
+│   Telegram      │────▶│  Bot (Python)    │────▶│  DeepSeek AI │
+│   @BingleHermes │     │  - Messages      │     │  - SEO Articles
+│   Bot           │     │  - Payments      │     │  - Keywords   │
+└─────────────────┘     │  - Commands      │     └──────────────┘
+                        └────────┬─────────┘
+                                 │
+                        ┌────────▼─────────┐     ┌──────────────┐
+                        │  Payment Monitor │────▶│  BSC Network │
+                        │  (Python)        │     │  - USDT      │
+                        │  - Balance Check │     │  - Transfers │
+                        │  - Log Scanning  │     └──────────────┘
+                        └──────────────────┘
+```
+
+## Services (systemd)
+- `binglehermesbot.service` — Telegram bot
+- `bsc-monitor.service` — Payment monitoring
+- `payment-web.service` — Landing page
+- `xray.service` — Proxy infrastructure
