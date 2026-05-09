@@ -163,14 +163,28 @@ Auto-crediting happens within 30-90 seconds ⚡
 
 ---
 
+## 💖 赞助 / Support
+
+如果这个项目对你有帮助，可以请我喝杯咖啡 ☕
+
+| 方式 | 地址 |
+|------|------|
+| **BSC (BEP-20)** | `0x19979a2498867a1bC0F823Fd309B05eEe8Bc5624` |
+| **ETH / Polygon** | 同上地址 |
+| **⭐ GitHub Star** | 点个 Star 也是支持！ |
+
+> 所有赞助直接进入开发者钱包，无需任何中间平台。
+
+---
+
 ## ⚖️ License
 
-MIT License — free to fork, modify, and learn from.  
-Commercial use requires subscription through @BingleHermesBot.
+MIT License — free to fork, modify, and learn from.
 
 ---
 
 <p align="center">
   <b>Start earning with AI + Crypto today 🚀</b><br>
-  <a href="https://t.me/BingleHermesBot">👉 @BingleHermesBot</a>
+  <a href="https://t.me/BingleHermesBot">👉 @BingleHermesBot</a> · 
+  <a href="https://bscscan.com/address/0x19979a2498867a1bC0F823Fd309B05eEe8Bc5624">🔗 BscScan</a>
 </p>
